@@ -84,7 +84,7 @@ inoremap <Down>  <ESC>:echoe "Use j"<CR>
 :set hlsearch
 
 " Set the number of columns occupied by a tab characters
-:set tabstop=4
+:set tabstop=8
 
 " auto indent
 :set autoindent
